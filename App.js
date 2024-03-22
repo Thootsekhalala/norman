@@ -11,7 +11,7 @@ const coursesData = [
   {
     name: 'Business Management',
     image: require('./business.jpg'),
-    description: 'Study management, finance, marketing, and entrepreneurship. Entry Requirements: Minimum CGPA of 2.5 in relevant subjects.'
+    description: 'Study management, finance, marketing, and entrepreneurship. Entry Requirements: Minimum 3 credits in relevant subjects and a B+ in Accounting.'
   },
   {
     name: 'Deploma in Digital Media',
@@ -26,7 +26,7 @@ const coursesData = [
   {
     name: 'Deploma in Hospitality Management',
     image: require('./hospitality.jpg'),
-    description: 'Study hotel operations, event planning, and tourism management. Entry Requirements: Minimum CGPA of 2.5 in relevant subjects.'
+    description: 'Study hotel operations, event planning, and tourism management. Entry Requirements: Minimum 2 credits in relevant subjects and A in English.'
   }
 ];
 
